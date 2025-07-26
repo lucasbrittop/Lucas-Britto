@@ -29,7 +29,6 @@ Here are some of the technologies and tools I work with:
 - ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ## 🔧 Current Learning Goals
 
